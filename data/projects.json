@@ -2,12 +2,11 @@
   "projects": [
     {
       "id": "project-01",
-      "title": "Project Title",
-      "shortDescription": "Brief description shown on project card",
+      "title": "Zen Exhibition",
+      "shortDescription": "The 2026 exhibition platform for Zen Exhibition",
       "members": [
         "zen-01",
-        "zen-02",
-        "zen-03"
+        "zen-02"
       ],
       "techStack": [
         "Next.js",
