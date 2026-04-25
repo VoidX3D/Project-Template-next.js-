@@ -1,0 +1,18 @@
+{
+  "id": "zen-02",
+  "state": "active",
+  "name": "Member 02",
+  "contribution": "Exhibition Member",
+  "shortBio": "This is a placeholder biography for the member. Edit this file to add details.",
+  "avatar": "",
+  "featured": false,
+  "order": 2,
+  "github": "",
+  "phone": "",
+  "email": "",
+  "social": {
+    "linkedin": "",
+    "twitter": "",
+    "website": ""
+  }
+}

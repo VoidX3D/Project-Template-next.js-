@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "id": "project-01",
+      "title": "Project Title",
+      "shortDescription": "Brief description shown on project card",
+      "members": [
+        "zen-01",
+        "zen-02",
+        "zen-03"
+      ],
+      "techStack": [
+        "Next.js",
+        "React",
+        "Tailwind"
+      ],
+      "githubRepo": "",
+      "demoUrl": "",
+      "featured": true,
+      "year": 2026,
+      "thumbnail": "",
+      "markdownFile": "project-01.md"
+    }
+  ]
+}
